@@ -34,7 +34,7 @@ jobs:
       HUGO_VERSION: 0.120.4
     defaults:
       run:
-        working-directory: blog
+        working-directory: ../blog
     steps:
       - name: Install Hugo CLI
         run: |
