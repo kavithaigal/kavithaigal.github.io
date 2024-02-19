@@ -92,4 +92,4 @@ https://guangzhengli.com/sponsors
 
 ## Special Thanks
 
-* Hugo Ladder is inspired by [hugo-paperMod](https://github.com/adityatelange/hugo-PaperMod).
+* Built with hugo-theme-ladder
