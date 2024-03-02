@@ -21,7 +21,7 @@ Shreya is a Chennai-Vaasi first before everything. When she's not submerged into
 </div>
 
 ## Suriya
-Suriya exists in the valley between, Hazy delirium and outrageous laziness.
+Suriya exists in the valley between, Hazy delirium and outrageous laziness. he also records his life at [suriya.cc](https://suriya.cc)
 
 <div style="width: 200px; height: 200px; border-radius: 50%; overflow: hidden; display: block; margin: 0 auto;">
   <img src="/images/people/suriya.jpg" alt="Shreya image" style="width: 100%; height: auto;">

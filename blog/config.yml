@@ -1,7 +1,7 @@
 baseURL: 'https://kavithaigal.github.io'
 title: Kavithaigal
 theme: ../../../kavithaigal.github.io
-description: 'Website template for Kavithaigal'
+description: 'Kavithaigal, a collection of poems we love'
 homepage: 'https://kavithaigal.github.io'
 defaultContentLanguage: 'en'
 enableRobotsTXT: true
